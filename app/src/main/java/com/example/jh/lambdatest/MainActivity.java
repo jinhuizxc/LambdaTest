@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 /**
  * 本demo测试jdk1.8的配置以及lambda表达式的使用   。。
+ * fffff
  */
 public class MainActivity extends AppCompatActivity {
 

@@ -8,8 +8,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 /**
- * 本demo测试jdk1.8的配置以及lambda表达式的使用   。。
- * fffff
+ * 本demo测试jdk1.8的配置以及lambda表达式的使用
  */
 public class MainActivity extends AppCompatActivity {
 
